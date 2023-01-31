@@ -1,4 +1,5 @@
 # NeuraLed
+
 Loyihaning nomi:  NeuraLed
 
 🎯Loyiha maqsadi: Neyron tarmoq asosida ishlovchi svetoforlar.
@@ -8,17 +9,29 @@ Loyihaning nomi:  NeuraLed
 ℹ️Loyihaning afzalliklari: 
 
 👉Neyron tarmoq.
+
 👉Muammoni optimal ravishda bartaraf etish.
+
 👉Vaziyatni o'rganish.
+
 👉Vaziyatni neyrotarmoq analiz qilishi.
+
 👉Vaziyatning to'liq boshqaruvdaligi.
+
 👉O'zini-o'zi rivojlantiruvchi, muammolarni o'rganuvchi tizim.
+
 👉Qulay.
+
 👉Bezarar.
+
 👉100% avtomatlashtirilgan.
+
 👉Inson aralashuvini talab qilmaydi.
+
 👉Ma'lumotlar serverda xavfsiz saqlanadi.
+
 👉Neyron tarmoq barcha ma'lumotlarni o'zi o'rganib chiqadi va tahlil qiladi.
+
 👉Nosozlikdan ogohlantirish tizimi.
 
 Loyihaning amalga oshirilishida yordam bergan resurslar:
@@ -39,6 +52,7 @@ Loyihaning amalga oshirilishida yordam bergan resurslar:
 
 
 Ma'nosi:
+
 NeuraLed - [Neyroled] - Neural Led - Neyron chiroqlar.
 
 Loyihani amalga oshirish uchun zarur texnikalar va dasturlar:
